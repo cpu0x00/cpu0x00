@@ -8,5 +8,6 @@ Love Red-Teaming :heart:
 
 have a glance at my unneccessary blog <a href="https://medium.com/@cpu0x00/about">here</a> 😂   
 
+CRTP | CRTE | CRTO
 
 ***A La Vie, A L 'Amour - To Love, To Life <3***
