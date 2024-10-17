@@ -1,8 +1,6 @@
 ### Hi there 👋
-
-ActiveDirectory Hacking Freak :computer: 
-
-Love Red-Teaming :heart: 
+ 
+Red Teamer and Offensive Tool Developer :heart: :computer: 
 
 :notes::notes:  <a href="https://youtu.be/LycUI0mBWiw#notrickroll">kali linux runnin through my mind</a> :notes::notes:
 
